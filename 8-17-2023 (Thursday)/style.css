@@ -1,0 +1,15 @@
+h1:hover{
+    color: red;
+    text-shadow: 1px 1.5px 0px  black;
+}
+body{
+    background-color: aquamarine;
+}
+button:hover{
+    background-color: red;
+}
+p:hover{
+    color: red;
+    text-shadow: 1px 1.5px 0px  black;
+    font-size: 50px;
+}
