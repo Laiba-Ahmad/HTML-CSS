@@ -1,0 +1,23 @@
+button{
+        padding: 10px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+p{
+    margin: 20px;
+}
+p:hover{
+    margin: 20px;
+    color: red;
+    font-size: 30px;
+}
+h1:hover{
+    margin: 20px;
+    color: red;
+    font-size: 30px;
+}
+button:hover{
+    background-color: red;
+}
