@@ -12,4 +12,5 @@ span{
 }
 button:hover{
     background-color: red ;
+    padding: 10px;
 }
